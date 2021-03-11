@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{wi_spent}prestashop>wi_spent_b0c9c7f07abe4b74f62343b49ba5a45b'] = 'Webimpacto Gasto de Clientes';
+$_MODULE['<{wi_spent}prestashop>wi_spent_24dd90c3da1ab01eb3d618a15eba815a'] = 'Recuerda a tus clientes cuanto han gastado y regala cupones a clientes premium.';
+$_MODULE['<{wi_spent}prestashop>wi_spent_12f926ad24a8defbe96a5b673526052e'] = 'Configura importes';
+$_MODULE['<{wi_spent}prestashop>wi_spent_344ced0a9e1868fd0d001d3e00bc1721'] = 'Listado de cupones';
+$_MODULE['<{wi_spent}prestashop>wi_spent_6a26f548831e6a8c26bfbbd9f6ec61e0'] = 'Ayuda';
+$_MODULE['<{wi_spent}prestashop>wi_spent_f4f70727dc34561dfde1a3c529b6205c'] = 'Configuración';
+$_MODULE['<{wi_spent}prestashop>wi_spent_541064f6a603a31f594905697a447103'] = 'Los clientes deben gastar';
+$_MODULE['<{wi_spent}prestashop>wi_spent_cd4b1e109d1f756aaffaf8f54c222869'] = 'Introduce el importe que deben gastar tus clientes para recibir un cupón regalo.';
+$_MODULE['<{wi_spent}prestashop>wi_spent_383057b48acd9183357a625e3d365c68'] = 'Importe del cupón';
+$_MODULE['<{wi_spent}prestashop>wi_spent_a642d55f7c38baa8880c159e3c088032'] = 'Introduce el importe del cupón que se regalará a tus clientes';
+$_MODULE['<{wi_spent}prestashop>wi_spent_63e91ca771b50da9132e8a9645269ecc'] = 'Validez del cupón en días';
+$_MODULE['<{wi_spent}prestashop>wi_spent_a131b949edfcc49966747130d1054244'] = 'Introduce el número de días que el cupón será valido tras su recepción.';
+$_MODULE['<{wi_spent}prestashop>wi_spent_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Habilitado';
+$_MODULE['<{wi_spent}prestashop>wi_spent_6ffa6bd7a2af9f31c0ecc40ab77312a7'] = 'Habilita o deshabilita esta funcionalidad';
+$_MODULE['<{wi_spent}prestashop>wi_spent_93cba07454f06a4a960172bbd6e2a435'] = 'Sí';
+$_MODULE['<{wi_spent}prestashop>wi_spent_bafd7322c6e97d25b6299b5d6fe8920b'] = 'No';
+$_MODULE['<{wi_spent}prestashop>wi_spent_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{wi_spent}prestashop>wi_spent_fe4fd7e27604ca8c09d23ef27b776be8'] = 'Felicidades ha obtenido un cupón descuento';
+$_MODULE['<{wi_spent}prestashop>wi_spent_4770f54233fe71b483471cb5f3a8b4b2'] = 'Su total gastado hasta la fecha';
+$_MODULE['<{wi_spent}prestashop>wi_spent_2752af74e5e09f5ee75927e6c772ce80'] = 'COMPRADOR PREMIUM';
+$_MODULE['<{wi_spent}prestashop>help_6650320b14e533febc27acc41e232a67'] = 'Guía de Ayuda';
+$_MODULE['<{wi_spent}prestashop>help_0854226c8762dd745333c02d666d990b'] = 'Establezca el total a gastar para obtener un cupón. Cuando los clientes alcancen la cantidad objetivo gastada, recibirán un cupón regalo con la cantidad establecida como regalo. El cupón se recibirá una sola vez. En la pestaña listado estarán disponible la lista de cupones enviados.';
+$_MODULE['<{wi_spent}prestashop>list_898a91c649b9c09e63dd03c14653ac39'] = 'Todavía no existe ningún cupón';
+$_MODULE['<{wi_spent}prestashop>list_dd2e2558399f80bf6bf65e8fc2933b19'] = 'ID Cliente';
+$_MODULE['<{wi_spent}prestashop>list_49ee3087348e8d44e1feda1917443987'] = 'Nombre';
+$_MODULE['<{wi_spent}prestashop>list_ce8ae9da5b7cd6c3df2929543a9af92d'] = 'Email';
+$_MODULE['<{wi_spent}prestashop>list_adb6e651c47c732f9af50ae33748feaa'] = 'Cupón';
+$_MODULE['<{wi_spent}prestashop>list_44749712dbec183e983dcd78a7736c41'] = 'Fecha';
+$_MODULE['<{wi_spent}prestashop>list_13348442cc6a27032d2b4aa28b75a5d3'] = 'Buscar';
+$_MODULE['<{wi_spent}prestashop>list_b4e6101378d2a08d80df7e5da0625128'] = 'Mostrando';
+$_MODULE['<{wi_spent}prestashop>list_8bf8854bebe108183caeb845c7676ae4'] = 'de';
+$_MODULE['<{wi_spent}prestashop>displayorderconfirmation_af78d502d390dc815d376bf41d749f7a'] = 'Rasca y gana';

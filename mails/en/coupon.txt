@@ -1,0 +1,1 @@
+Congratulations you have spend enought to get a gif coupon of {reward}€ {coupon}

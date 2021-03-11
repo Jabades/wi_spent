@@ -1,0 +1,1 @@
+Felicidades ha gastado lo suficiente para obtener un cupón regalo de {reward}€ {coupon}
